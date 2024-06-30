@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Group Messenger</title>
+    <script src="/static/scripts/main.js" defer></script>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <h1>WhatsApp Automação</h1>
+    <h2>Adicione o ID do grupo</h2>
+    <input type="text" id="groupIdInput" placeholder="Enter Group ID">
+    <button onclick="addGroup()">Add Group</button>
+
+    <h2>IDs de Grupos</h2>
+    <ul id="groupList"></ul>
+
+    <h2>Enviar mensagem</h2>
+    <select id="groupSelect"></select>
+    <input type="text" id="messageInput" placeholder="Enter message">
+    <button onclick="sendMessage()">Enviar Mensagem(unica)</button>
+    <button onclick="sendMessageToAll()">Enviar mensagem para todos os Grupos</button>
+
+    <h2>Progresso</h2>
+    <progress id="progressBar" value="0" max="100"></progress>
+
+    <h2>Log</h2>
+    <div id="log"></div>
+</body>
+</html>

@@ -1,0 +1,75 @@
+Date: 29/6/2024
+Time: 23:37
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Teste
+--------------------
+Date: 29/6/2024
+Time: 23:37
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Teste
+--------------------
+Date: 29/6/2024
+Time: 23:47
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Teste 3
+--------------------
+Date: 29/6/2024
+Time: 23:52
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: 
+--------------------
+Date: 29/6/2024
+Time: 23:54
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Teste 5
+--------------------
+Date: 29/6/2024
+Time: 23:58
+Group ID: IEju4PSPXh2EeP5QDYSCtI 
+Message: Teste 5
+--------------------
+Date: 30/6/2024
+Time: 0:1
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Te
+--------------------
+Date: 30/6/2024
+Time: 0:24
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: Teste
+--------------------
+Date: 30/6/2024
+Time: 0:25
+Group ID: IEju4PSPXh2EeP5QDYSCtI 
+Message: Teste
+--------------------
+Date: 30/6/2024
+Time: 0:41
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: ISSO E UM TESTE DE FORMATAÇÃO https://portaldeprefeitura.com.br/bastidores-da-politica/governo-estadual/governadora-diz-ter-confianca-em-paulo-nery-novo-secretario-de-turismo-chega-para-agregar-o-time/
+--------------------
+Date: 30/6/2024
+Time: 0:42
+Group ID: IEju4PSPXh2EeP5QDYSCtI 
+Message: ISSO E UM TESTE DE FORMATAÇÃO https://portaldeprefeitura.com.br/bastidores-da-politica/governo-estadual/governadora-diz-ter-confianca-em-paulo-nery-novo-secretario-de-turismo-chega-para-agregar-o-time/
+--------------------
+Date: 30/6/2024
+Time: 0:46
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: https://portaldeprefeitura.com.br/bastidores-da-politica/governo-estadual/governadora-diz-ter-confianca-em-paulo-nery-novo-secretario-de-turismo-chega-para-agregar-o-time/
+--------------------
+Date: 30/6/2024
+Time: 0:47
+Group ID: IEju4PSPXh2EeP5QDYSCtI 
+Message: https://portaldeprefeitura.com.br/bastidores-da-politica/governo-estadual/governadora-diz-ter-confianca-em-paulo-nery-novo-secretario-de-turismo-chega-para-agregar-o-time/
+--------------------
+Date: 30/6/2024
+Time: 0:49
+Group ID: GzCX8H3EXgE7VlWQBIi7DL
+Message: TESTE DE CARACTERES 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+--------------------
+Date: 30/6/2024
+Time: 0:50
+Group ID: IEju4PSPXh2EeP5QDYSCtI 
+Message: TESTE DE CARACTERES 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+--------------------
